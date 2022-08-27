@@ -36,17 +36,17 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
-global.vcardowner = ['6287777718770'] //ur owner number
-global.ownername = "Matsdev" //ur owner name
-global.ytname = "YT: BaladSultan" //ur yt chanel name
+global.vcardowner = ['6288212000338'] //ur owner number
+global.ownername = "RikiFG" //ur owner name
+global.ytname = "YT: MRifkySuwandi" //ur yt chanel name
 global.socialm = "GitHub: rachmatpirdaus" //ur github or insta name
 global.location = "Sukabumi" //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['6287777718770']
-global.ownertag = '6287777718770' //ur tag number
-global.botname = 'Matsdev' //ur bot name
-global.ig = "https://instagram.com/yourmatss" //your theme url which will be displayed on whatsapp
+global.owner = ['6288212000338']
+global.ownertag = '6288212000338' //ur tag number
+global.botname = 'RikiBot' //ur bot name
+global.ig = "https://instagram.com/rikkiriansyah25" //your theme url which will be displayed on whatsapp
 global.myweb = "" //ur website to be displayed
 global.sc = 'https://github.com/rachmatpirdaus' //script link
 global.linkz = 'https://youtu.be/uzMbW5v9QLE'
@@ -67,7 +67,7 @@ global.thumb = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
 
 //DATA BASED
 
-global.premium = ['6287777718770'] //ADD YOU NUMBER
+global.premium = ['6288212000338'] //ADD YOU NUMBER
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
